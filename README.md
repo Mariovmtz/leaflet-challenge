@@ -1,2 +1,4 @@
 # leaflet-challenge
-ITESM leaflet HW
+ITESM leaflet HOMEWORK
+
+https://mariovmtz.github.io/leaflet-challenge/
